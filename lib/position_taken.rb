@@ -8,8 +8,3 @@ def position_taken?(board, index)
     true
   end
 end
-
-
-
-
-# board[index] = "x" || board[index] = "X" || board[index] = "o" || board[index] = "O"
