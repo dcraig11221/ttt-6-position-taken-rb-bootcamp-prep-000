@@ -2,10 +2,8 @@
 
 
 def position_taken?(board, index)
-  x = board[index].upcase
-  if x == "X" || x == "O"
+  if board[index] = "x" || board[index] = "X" || board[index] = "o" || board[index] = "O"
     true
-
-
   end
 end
+
